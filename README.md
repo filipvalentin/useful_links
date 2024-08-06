@@ -1,9 +1,8 @@
 # useful_links
 
-- Main aggregators:
-  - https://www.andreinc.net/links/ - Andrei Ciobanu - has a lot of other links, it's the biggest *link database* I know of
+- Main aggregators I know of:
+  - https://www.andreinc.net/links/ - Andrei Ciobanu - has a lot of other links, it's the biggest *link database* I've ever seen
   - https://alexandruica.github.io/Stuff/ - Various links to books, articles, projects & more
-  - https://thesenioritybook.com/topics.html - Shortcut to seniority - teaches the basics: hadrware & algorithms
   - https://vladvoicux64.github.io/vladhomepage/ - different resources and materials
 
 <br>
@@ -39,6 +38,17 @@
 
 - Algorithms
   - https://jeffe.cs.illinois.edu/teaching/algorithms/ - Algorithms by Jeff Erickson
+
+<br>
+
+- Roadmaps
+  - https://roadmap.sh/ - Developer Roadmaps
+  - https://thesenioritybook.com/topics.html - Shortcut to seniority - teaches the basics: hadrware & algorithms
+
+<br>
+
+- References I used in my thesis
+  - [thesis_references_links.md](thesis_references_links.md)
 
 <br>
 
