@@ -1,4 +1,4 @@
-# References used throughout my thesis and others
+# References used throughout my [thesis](https://github.com/filipvalentin/useful_links/blob/main/thesis_references_links.md) and others
 Topics: CQRS, DDD, Software & System Architectures, Databases and anything in between\
 I hope you'll find these resources useful, it took me a long time to gather (& read) them all.
 
@@ -9,6 +9,8 @@ I hope you'll find these resources useful, it took me a long time to gather (& r
   - Greg Young, 'CQRS Documents by Greg Young'. 2010-11-05. https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf
   - Udi Dahan, 'Clarified CQRS'. Dec. 9th, 2009. https://udidahan.com/2009/12/09/clarified-cqrs/
   - Udi Dahan, 'Udi & Greg Reach CQRS Agreement'. Feb. 10th, 2012. https://udidahan.com/2012/02/10/udi-greg-reach-cqrs-agreement/
+  - Udi Dahan, 'CQRS – but different - Udi Dahan'.  June 19, 2015. https://vimeo.com/131199089
+  - Udi Dahan, 'CQRS pitfalls and patterns - Udi Dahan - NDC Oslo 2023'. https://www.youtube.com/watch?v=Lw04HRF8ies
   - Mark Nijhof, 'CQRS à la Greg Young'. Nov. 12th, 2009. https://web.archive.org/web/20110906055537/http://cre8ivethought.com/blog/2009/11/12/cqrs--la-greg-young
   - Bürckel Marco, 'Some thoughts on using CQRS without Event Sourcing'. https://medium.com/@mbue/some-thoughts-on-using-cqrs-without-event-sourcing-938b878166a2
   - Martin Fowler, 'CQRS'. 14 July, 2011. https://martinfowler.com/bliki/CQRS.html
@@ -40,15 +42,18 @@ I hope you'll find these resources useful, it took me a long time to gather (& r
   - Mike Mogosanu, 'An In-Depth Look At CQRS'. 01 Sep 2015. https://blog.sapiensworks.com/post/2015/09/01/In-Depth-CQRS
   - Vladik Khononov, 'Tackling Complexity in CQRS'. Mar 20, 2017. https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/
   - Matt Hawkins, 'ReST vs CQRS: The Trigger Pattern'. Dec 18 2015. https://hawkins6423.github.io/
+  - Rinat Abdullin, 'Theory of CQRS Command Handlers: Sagas, ARs and Event Subscriptions'.  September 26, 2010. https://web.archive.org/web/20101025081212/http://abdullin.com/journal/2010/9/26/theory-of-cqrs-command-handlers-sagas-ars-and-event-subscrip.html
   - Peter Vogel, 'Leverage CQRS to Create Highly Responsive Systems' - MSDN Magazine. Jul 2016. https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/july/cqrs-leverage-cqrs-to-create-highly-responsive-systems
   - Dino Esposito, 'CQRS for the Common Application' - MSDN Magazine. June 2015. https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/june/cutting-edge-cqrs-for-the-common-application
   - Dino Esposito, 'The Query Stack of a CQRS Architecture' - MSDN Magazine. March 2016. https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/march/cutting-edge-the-query-stack-of-a-cqrs-architecture
+  - Daniel Whittaker, 'How To Validate Commands in a CQRS Application'. 2016/04/20. https://danielwhittaker.me/2016/04/20/how-to-validate-commands-in-a-cqrs-application/
   - Andrzej Debski, Bartlomiej Szczepanik, Maciej Malawski, Stefan Spahr and Dirk Muthig, 'In Search for a Scalable & Reactive Architecture of a Cloud Application: CQRS and Event Sourcing Case Study'. 7/28/16. https://home.agh.edu.pl/~malawski/DebskiSzczepanik-CQRS-IEEE-Software.pdf
 
 <br>
 
 - Domain-Driven Design
   - Eric Evans, 'Domain-Driven Design: Tackling Complexity in the Heart of Software'. 2003 Aug 20. ISBN 978-0-321-12521-7
+  - 'Strengthening your domain: a primer'. 4 February, 2010. https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/
   - Mike Mogosanu, 'DDD Decoded - Bounded Contexts Explained'. 12 August, 2016. https://blog.sapiensworks.com/post/2016/08/12/DDD-Bounded-Contexts-Explained
   - Mike Mogosanu, 'Rich Domain Is SOLID, Anaemic Domain Is An Anti Pattern'. 26 March, 2014. https://blog.sapiensworks.com/post/2014/03/26/Rich-Domain-Is-SOLID-Anaemic-Domain-Is-An-Anti-Pattern.aspx
   - Mike Mogosanu, 'DDD - Identifying Bounded Contexts and Aggregates, Entities and Value Objects'. 17 April, 2012. https://blog.sapiensworks.com/post/2014/10/31/DDD-Identifying-Bounded-Contexts-and-Aggregates-Entities-and-Value-Objects.aspx
@@ -79,6 +84,7 @@ I hope you'll find these resources useful, it took me a long time to gather (& r
   - Pier-Jean Malandrino, 'Evolution of Software Architecture: From Monoliths to Microservices and Beyond'. Nov. 28, 23. https://dzone.com/articles/evolution-of-software-architecture-from-monoliths
   - Munonye K, Martinek P, 'Evaluation of Data Storage Patterns in Microservices Archicture'. 6/29/20. Doi: 10.1109/SoSE50414.2020.9130516
   - Pouya Ataei, Daniel Staegemann, 'Application of microservices patterns to big  data systems'. 04 May 2023, DOI 10.1186/s40537-023-00733-4
+  - Mehmet Ozkaya, 'CQRS Design Pattern in Microservices Architectures'. Sep 8, 2021. https://medium.com/design-microservices-architecture-with-patterns/cqrs-design-pattern-in-microservices-architectures-5d41e359768c
   - Robert C. Martin, 'Clean Architecture'. 22 November, 2011. https://blog.cleancoder.com/uncle-bob/2011/11/22/Clean-Architecture.html
   -  Robert C. Martin, 'Clean Architecture A Craftsman’s Guide to Software Structure and Design'. Sep 10, 2017. ISBN 978-0-13-449416-6 
   - Eric Damtoft, 'Onion vs Clean vs Hexagonal Architecture'. Nov 30, 2021. https://medium.com/@edamtoft/onion-vs-clean-vs-hexagonal-architecture-9ad94a27da91
@@ -110,6 +116,7 @@ I hope you'll find these resources useful, it took me a long time to gather (& r
   - Stephen Orban, 'Considering a Mass Migration to the Cloud?'. 01 NOV, 2016. https://aws.amazon.com/blogs/enterprise-strategy/considering-a-mass-migration-to-the-cloud/
   - Kevin Bogusch, 'Cloud Computing Costs in 2024'. Jan. 24, 2024. https://www.oracle.com/ro/cloud/cloud-computing-cost/
   - Seth Gilbert, Nancy A. Lynch, 'Perspectives on the CAP Theorem'. 22/12/2011. https://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf
+  - 'Data Consistency Primer'. 08/26/2015. https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn589800(v=pandp.10)
   - Milan Jovanović, 'Repository Pattern With Entity Framework Core | Clean Architecture, .NET 6'. https://www.youtube.com/watch?v=h4KIngWVpfU
   - Milan Jovanović, '5 Amazing Use Cases for MediatR Pipelines - Cross-Cutting Concerns'. https://www.youtube.com/watch?v=Iql4yjHYRiA
 
