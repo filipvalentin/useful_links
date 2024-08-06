@@ -24,7 +24,7 @@
     - (a more up to date version: https://gustedt.wordpress.com/2022/12/18/checked-integer-arithmetic-in-the-prospect-of-c23/)
   - GPUs
     - https://gpuopen.com/learn/ (search for *All GPUOpen blogs*)
-    - https://hazyresearch.stanford.edu/blog/2024-05-12-tk
+    - https://hazyresearch.stanford.edu/blog/2024-05-12-tk - GPUs Go Brrr - *a mixture of practice and philosophy*
   - https://n-o-d-e.net/index.html - hardware, embedded projects
     - https://n-o-d-e.net/zine/# - a book about *topics and projects in the digital counterculture, NODE Vol 02 shows you the people creating amazing open hardware*
     - https://n-o-d-e.net/pinouts.html - *a pinout reference book that you can download for free*
