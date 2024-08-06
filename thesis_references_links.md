@@ -47,6 +47,7 @@ I hope you'll find these resources useful, it took me a long time to gather (& r
   - Dino Esposito, 'CQRS for the Common Application' - MSDN Magazine. June 2015. https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/june/cutting-edge-cqrs-for-the-common-application
   - Dino Esposito, 'The Query Stack of a CQRS Architecture' - MSDN Magazine. March 2016. https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/march/cutting-edge-the-query-stack-of-a-cqrs-architecture
   - Daniel Whittaker, 'How To Validate Commands in a CQRS Application'. 2016/04/20. https://danielwhittaker.me/2016/04/20/how-to-validate-commands-in-a-cqrs-application/
+  - Seb Wilgosz, 'Use the REST (API) with CQRS properly'. https://driggl.com/blog/a/cqrs-rest-api
   - Andrzej Debski, Bartlomiej Szczepanik, Maciej Malawski, Stefan Spahr and Dirk Muthig, 'In Search for a Scalable & Reactive Architecture of a Cloud Application: CQRS and Event Sourcing Case Study'. 7/28/16. https://home.agh.edu.pl/~malawski/DebskiSzczepanik-CQRS-IEEE-Software.pdf
 
 <br>
