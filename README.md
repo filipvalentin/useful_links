@@ -27,6 +27,7 @@
   - https://n-o-d-e.net/index.html - hardware, embedded projects
     - https://n-o-d-e.net/zine/# - a book about *topics and projects in the digital counterculture, NODE Vol 02 shows you the people creating amazing open hardware*
     - https://n-o-d-e.net/pinouts.html - *a pinout reference book that you can download for free*
+  - https://blog.regehr.org/ - Embedded in Academia - hardware, compilers and low level stuff
 
 <br>
 
