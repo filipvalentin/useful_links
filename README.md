@@ -8,6 +8,9 @@
 - Web dev
   - https://microsoft.github.io/Web-Dev-For-Beginners/ - Web Development for Beginners
   - https://fullstackopen.com/en/ - Deep Dive Into Modern Web Development | Full Stack open
+  - https://web.dev/learn/css/ - Learn CSS
+  - https://exploringjs.com/deep-js/toc.html - Deep JavaScript
+  - https://javascript.info/ - The Modern JavaScript Tutorial
     
 - hardware & software
   - https://en.algorithmica.org/hpc/ - Algorithms for Modern Hardware
