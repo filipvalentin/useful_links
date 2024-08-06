@@ -1,6 +1,6 @@
 # useful_links
 
-- Other aggregators:
+- Main aggregators:
   - https://www.andreinc.net/links/ - Andrei Ciobanu - has a lot of other links, it's the biggest *link database* I know of
   - https://alexandruica.github.io/Stuff/ - Various links to books, articles, projects & more
   - https://thesenioritybook.com/topics.html - Shortcut to seniority - teaches the basics: hadrware & algorithms
