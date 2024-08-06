@@ -47,7 +47,7 @@
 
 <br>
 
-- References I used in my thesis (CQRS, DDD, Software & System Architectures, Databases and anything in between)
+- References I used in my [thesis](https://github.com/filipvalentin/cqrs-thesis-impl/releases/tag/thesis) (CQRS, DDD, Software & System Architectures, Databases and anything in between)
   - [thesis_references_links.md](thesis_references_links.md)
 
 <br>
