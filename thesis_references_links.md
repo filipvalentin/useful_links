@@ -1,5 +1,5 @@
 # References used throughout my thesis and others
-Topics: CQRS, DDD, Software &System Architectures\
+Topics: CQRS, DDD, Software & System Architectures, Databases and anything in between\
 I hope you'll find these resources useful, it took me a long time to gather (& read) them all.
 
 <br>
