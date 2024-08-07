@@ -1,4 +1,4 @@
-# References used throughout my [thesis](https://github.com/filipvalentin/cqrs-thesis-impl/releases/tag/thesis) and others
+# References used throughout my [thesis](https://github.com/filipvalentin/cqrs-thesis-impl/releases/tag/thesis) and other relevant sources
 Topics: CQRS, DDD, Software & System Architectures, Databases and anything in between\
 I hope you'll find these resources useful, it took me a long time to gather (& read) them all.\
 _Note: If a site doesn't load or has been deleted, try using the Wayback Machine. It is an invaluable tool, and without it, my thesis would be significantly lacking._
