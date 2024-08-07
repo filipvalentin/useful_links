@@ -13,6 +13,7 @@
   - https://web.dev/learn/css/ - Learn CSS
   - https://exploringjs.com/deep-js/toc.html - Deep JavaScript
   - https://javascript.info/ - The Modern JavaScript Tutorial
+  - https://github.com/davidfowl/AspNetCoreDiagnosticScenarios - ASP.NET Core Diagnostic Scenarios 
 
 <br>
 
