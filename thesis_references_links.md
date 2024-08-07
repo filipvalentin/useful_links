@@ -1,6 +1,7 @@
 # References used throughout my [thesis](https://github.com/filipvalentin/cqrs-thesis-impl/releases/tag/thesis) and others
 Topics: CQRS, DDD, Software & System Architectures, Databases and anything in between\
-I hope you'll find these resources useful, it took me a long time to gather (& read) them all.
+I hope you'll find these resources useful, it took me a long time to gather (& read) them all.\
+_Note: If a site doesn't load or has been deleted, try using the Wayback Machine. It is an invaluable tool, and without it, my thesis would be significantly lacking._
 
 <br>
 
@@ -25,12 +26,20 @@ I hope you'll find these resources useful, it took me a long time to gather (& r
   - Greg Young, 'CQRS and Event Sourcing'. Feb. 13, 2010. https://web.archive.org/web/20130225221336/http://codebetter.com/gregyoung/2010/02/13/cqrs-and-event-sourcing/
   - 'Greg Young - CQRS and Event Sourcing - Code on the Beach 2014 [1:10]'. 8 Sept, 2014. https://www.youtube.com/watch?v=JHGkaShoyNs
   - 'Greg Young — A Decade of DDD, CQRS, Event Sourcing'. 11 Apr, 2016. https://www.youtube.com/watch?v=LDW0QWie21s&t=448s
+  - Greg Young, 'Case Studies'.  March 2, 2012. https://web.archive.org/web/20131001062613/http://codebetter.com/gregyoung/2012/03/02/case-studies/
+  - Greg Young, 'CQRS and MVC'. September 7, 2010. https://web.archive.org/web/20101228220357/http://codebetter.com/gregyoung/2010/09/07/cqrs-and-mvc/
+  - 'Greg Young - CQRS/DDD Notes'. August 2010. https://web.archive.org/web/20101118104502/http://www.agilification.com/file.axd?file=2010/8/CQRS+DDD+Notes+Greg+Young.pdf
   - Dominic Betts, Julián Domínguez, Grigori Melnik, Fernando Simonazzi and Mani Subramanian, 'Exploring CQRS and Event Sourcing: A Journey Into High Scalability, Availability and Maintainability with Windows Azure'. 8/28/2013. ISBN 978-1-62114-016-0
   - Microsoft Corp., 'CQRS pattern'. https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
   - IBM, 'Command-Query Responsibility Segregation'. https://ibm-cloud-architecture.github.io/refarch-eda/patterns/cqrs/
   - Jaap Kabbedijk, Slinger Jansen, Sjaak Brinkkemper, 'A Case Study of the Variability Consequences of the CQRS Pattern in Online Business Software'. DOI 10.1145/2602928.2603078
   - Martin Fowler, 'Event Sourcing'. 12 December, 2005. https://martinfowler.com/eaaDev/EventSourcing.html
+  - Martin Fowler, 'What do you mean by “Event-Driven”?'. 7 February 2017. https://martinfowler.com/articles/201701-event-driven.html
   - Martin Fowler, 'Command Query Separation'. 5 December, 2005. https://martinfowler.com/bliki/CommandQuerySeparation.html
+  - Martin Fowler, 'The Many Meanings of Event-Driven Architecture • Martin Fowler • GOTO 2017'. https://www.youtube.com/watch?v=STKCRSUsyP0
+  - Konrad Garus, 'Persistence in CQRS Read Models'. September 28, 2015. https://squirrel.pl/blog/tag/event-sourcing/
+  - Konrad Garus, 'Introduction to Event Sourcing and Command-Query Responsibility Segregation'. August 31, 2015. https://squirrel.pl/blog/2015/08/31/introduction-to-event-sourcing-and-command-query-responsibility-segregation/
+  - 'Azure tales: a real world CQRS and ES Deep Dive'. 5 Oct 2020. https://www.youtube.com/watch?v=5xfWHhM3k0o
   - Jérémie Chassaing, 'Udi Dahan talks on CQRS in Paris'. 2009-11-17. https://thinkbeforecoding.com/post/2009/11/17/Udi-Dahan-talks-on-CQRS-in-Paris
   - Vladimir Khorikov, 'Types of CQRS'. Apr. 20, 2015. https://enterprisecraftsmanship.com/posts/types-of-cqrs/
   - Jonathan Oliver, 'Event Sourcing and CAP Requirements'. FEB 22, 2010. https://blog.jonathanoliver.com/event-sourcing-and-cap-requirements/
@@ -83,11 +92,11 @@ I hope you'll find these resources useful, it took me a long time to gather (& r
   - 'The Evolution of Software Architectural Styles: From Monolithic to Microservices'. Feb 16, 2023. https://softwarearchitectinsights.com/the-evolution-of-software-architectural-styles-from-monolithic-to-microservices
   - Marko Vainio, 'The benefits and challenges in migrating from a monolithic architecture into microservice architecture'. Feb 21, 2021. https://helda.helsinki.fi/server/api/core/bitstreams/c4b5018c-2157-4db4-962b-e72a858c69e6/content
   - Pier-Jean Malandrino, 'Evolution of Software Architecture: From Monoliths to Microservices and Beyond'. Nov. 28, 23. https://dzone.com/articles/evolution-of-software-architecture-from-monoliths
-  - Munonye K, Martinek P, 'Evaluation of Data Storage Patterns in Microservices Archicture'. 6/29/20. Doi: 10.1109/SoSE50414.2020.9130516
+  - Munonye K, Martinek P, 'Evaluation of Data Storage Patterns in Microservices Archicture'. 6/29/20. DOI: 10.1109/SoSE50414.2020.9130516
   - Pouya Ataei, Daniel Staegemann, 'Application of microservices patterns to big  data systems'. 04 May 2023, DOI 10.1186/s40537-023-00733-4
   - Mehmet Ozkaya, 'CQRS Design Pattern in Microservices Architectures'. Sep 8, 2021. https://medium.com/design-microservices-architecture-with-patterns/cqrs-design-pattern-in-microservices-architectures-5d41e359768c
   - Robert C. Martin, 'Clean Architecture'. 22 November, 2011. https://blog.cleancoder.com/uncle-bob/2011/11/22/Clean-Architecture.html
-  -  Robert C. Martin, 'Clean Architecture A Craftsman’s Guide to Software Structure and Design'. Sep 10, 2017. ISBN 978-0-13-449416-6 
+  - Robert C. Martin, 'Clean Architecture A Craftsman’s Guide to Software Structure and Design'. Sep 10, 2017. ISBN 978-0-13-449416-6 
   - Eric Damtoft, 'Onion vs Clean vs Hexagonal Architecture'. Nov 30, 2021. https://medium.com/@edamtoft/onion-vs-clean-vs-hexagonal-architecture-9ad94a27da91
   - Jeffrey Palermo, 'The Onion Architecture : part 1'. Jul. 29, 2008. https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/
   - Robert C. Martin, 'Screaming Architecture'. https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html
@@ -97,11 +106,14 @@ I hope you'll find these resources useful, it took me a long time to gather (& r
   - Jimmy Bogard, 'Vertical Slice Architecture'. Apr 19, 2018. https://www.jimmybogard.com/vertical-slice-architecture/
   - Milan Jovanović, 'Vertical Slice Architecture'. Nov 04, 2023. https://www.milanjovanovic.tech/blog/vertical-slice-architecture
   - Jaap Kabbedijk, Slinger Jansen, 'The Role of Variability Patterns in Multi-tenant Business Software'. 20 Aug 2012. DOI 10.1145/2361999.2362029
+  - Udi Dahan, 'Build Scalable Systems That Handle Failure'. https://learn.microsoft.com/en-us/archive/msdn-magazine/2008/july/building-scalable-systems-that-handle-failure-without-losing-data
+  - Udi Dahan, 'Lessons Learned - Optimizing A Large Scale Software + Services Application'. https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/april/build-service-oriented-apps-with-wpf-prism-and-wcf
 
 <br>
 
-- Others
+- Others  
   - Udi Dahan, 'Race Conditions Don’t Exist'. Aug. 31st, 2010.. https://udidahan.com/2010/08/31/race-conditions-dont-exist/
+  - Kjetil Klaussen, 'Growth is optional. Choose Wisely.'. February 11, 2010. https://www.kjetilk.com/2010/02/growth-is-optional-choose-wisely.html
   - Ian Cooper, 'Why CRUD might be what they want, but may not be what they need'. https://web.archive.org/web/20111010012450/http://codebetter.com/iancooper/2011/07/15/why-crud-might-be-what-they-want-but-may-not-be-what-they-need/
   - Martin Fowler, 'Local D T O'. https://martinfowler.com/bliki/LocalDTO.html
   - Gregor Hohpe, Bobby Woolf, 'Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions'. Oct 10, 2003. ISBN 0-321-20068-3
