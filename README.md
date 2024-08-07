@@ -30,7 +30,8 @@
     - https://n-o-d-e.net/zine/# - a book about *topics and projects in the digital counterculture, NODE Vol 02 shows you the people creating amazing open hardware*
     - https://n-o-d-e.net/pinouts.html - *a pinout reference book that you can download for free*
   - https://blog.regehr.org/ - Embedded in Academia - hardware, compilers and low level stuff
-  - https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/ - ARM or x86? ISA Doesn’t Matter 
+  - https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/ - ARM or x86? ISA Doesn’t Matter
+  - https://simontoth.substack.com/p/daily-bite-of-c-optimizing-code-to - Daily bit(e) of C++ | Optimizing code to run 87x faster
 
 <br>
 
