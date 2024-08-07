@@ -41,6 +41,7 @@
 
 - Algorithms
   - https://jeffe.cs.illinois.edu/teaching/algorithms/ - Algorithms by Jeff Erickson
+  - https://github.com/makhan1101/BurstSort/tree/master - BurstSort - very efficient string sorting algorithm
 
 <br>
 
