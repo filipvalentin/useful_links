@@ -5,7 +5,7 @@
   - https://alexandruica.github.io/Stuff/ - Various links to books, articles, projects & more
   - https://vladvoicux64.github.io/vladhomepage/ - different resources and materials
 
-<br>
+---
 
 - Web dev
   - https://microsoft.github.io/Web-Dev-For-Beginners/ - Web Development for Beginners
@@ -48,8 +48,7 @@
 
 <br>
 
-- References I used in my [thesis](https://github.com/filipvalentin/cqrs-thesis-impl/releases/tag/thesis) (CQRS, DDD, Software & System Architectures, Databases and anything in between)
-  - [thesis_references_links.md](thesis_references_links.md)
+- 100+ references I used when researching [my thesis](https://github.com/filipvalentin/cqrs-thesis-impl/releases/tag/thesis) (CQRS, DDD, Software & System Architectures, Databases and anything in between): [thesis_references_links.md](thesis_references_links.md)
 
 <br>
 
