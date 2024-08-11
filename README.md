@@ -36,8 +36,8 @@
 <br>
 
 - Crypto
-  - https://www.crypto101.io/
-  - https://joyofcryptography.com/ 
+  - https://www.crypto101.io/ - _an introductory course on cryptography_
+  - https://joyofcryptography.com/ - _undergraduate-level textbook that introduces students to the fundamentals of provable security_
 
 <br>
 
@@ -49,7 +49,7 @@
 
 - Roadmaps
   - https://roadmap.sh/ - Developer Roadmaps
-  - https://thesenioritybook.com/topics.html - Shortcut to seniority - teaches the basics: hadrware & algorithms
+  - https://thesenioritybook.com/topics.html - Shortcut to seniority - teaches the basics: hardware & algorithms
 
 <br>
 
