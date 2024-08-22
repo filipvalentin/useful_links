@@ -10,9 +10,10 @@
 - Web dev
   - https://microsoft.github.io/Web-Dev-For-Beginners/ - Web Development for Beginners
   - https://fullstackopen.com/en/ - Deep Dive Into Modern Web Development | Full Stack open
+  - https://phuoc.ng/collection/html-dom/ - Mastering DOM manipulation with vanilla JavaScript
   - https://web.dev/learn/css/ - Learn CSS
-  - https://exploringjs.com/deep-js/toc.html - Deep JavaScript
   - https://javascript.info/ - The Modern JavaScript Tutorial
+  - https://exploringjs.com/deep-js/toc.html - Deep JavaScript
   - https://github.com/davidfowl/AspNetCoreDiagnosticScenarios - ASP.NET Core Diagnostic Scenarios 
 
 <br>
