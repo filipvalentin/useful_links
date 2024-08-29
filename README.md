@@ -33,6 +33,7 @@
   - https://blog.regehr.org/ - Embedded in Academia - hardware, compilers and low level stuff
   - https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/ - ARM or x86? ISA Doesn’t Matter
   - https://simontoth.substack.com/p/daily-bite-of-c-optimizing-code-to - Daily bit(e) of C++ | Optimizing code to run 87x faster
+  - https://nrk.neocities.org/articles/cpu-vs-common-sense - strlcpy and how CPUs can defy common sense
 
 <br>
 
