@@ -1,6 +1,6 @@
 # TIL (& day to day problems the Internet never heard of)
 
-### 1. Always use *MOUSEEVENTF_VIRTUALDESK* when using *MOUSEEVENTF_MOVE* to simulate moving the mouse on Windows
+### 1. Always use *MOUSEEVENTF_VIRTUALDESK* when using *MOUSEEVENTF_MOVE* to simulate moving the mouse cursor on Windows
 
 I'm writing a Teamviewer clone in WPF. I managed to share a video feed and basic clicks and keyboard inputs from the controlling side to the sharing side. The only problem left was to move the mouse. Easy peasy, right? (foreshadowing)
 As always, it immediately came to mind that I want to be able to select the screen I'm sharing. Considering that I'm running a dual-monitor setup, I can test without going blindly into the matter at hand, or worse, or worse to trust ChatGPT. So, reading the [documentation](https://learn.microsoft.com/en-gb/windows/win32/api/winuser/ns-winuser-mouseinput) M$(Microsoft) writes that:
