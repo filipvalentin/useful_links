@@ -56,6 +56,11 @@
 
 <br>
 
+- Other
+  - https://www.handprint.com/HP/WCL/color18a.html - modern color theory (concepts)
+
+<br>
+
 - 100+ references I used when researching [my thesis](https://github.com/filipvalentin/cqrs-thesis-impl/releases/tag/thesis) (CQRS, DDD, Software & System Architectures, Databases and anything in between): [thesis_references_links.md](thesis_references_links.md)
 
 <br>
