@@ -65,6 +65,10 @@
 
 <br>
 
+- I have a blog! https://filipvalentin.github.io/
+
+<br>
+
 - Funny
   - https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html?m=1
   - https://www-users.york.ac.uk/~ss44/joke/foot.htm
