@@ -21,6 +21,7 @@
 - hardware & software
   - https://en.algorithmica.org/hpc/ - Algorithms for Modern Hardware
   - https://asmtutor.com/ - Learn Assembly Language
+  - https://youtu.be/7PFwUpXKLrg - Conversational x86 ASM: Learning to Appreciate Your Compiler • Matt Godbolt • YOW! 2020
   - https://www.fefe.de/intof.html - Catching Integer Overflows in C
     - (a more up to date version: https://gustedt.wordpress.com/2022/12/18/checked-integer-arithmetic-in-the-prospect-of-c23/)
   - GPUs
