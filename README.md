@@ -34,7 +34,7 @@
     - https://n-o-d-e.net/pinouts.html - *a pinout reference book that you can download for free*
   - https://blog.regehr.org/ - Embedded in Academia - hardware, compilers and low level stuff
   - https://zolutal.github.io/ - Justin Miller | systems hacking (_Understanding x86_64 Paging_, _Understanding Memory Deduplication Attacks_, etc.)
-  - https://chipsandcheese.com/archive?sort=new - Chips and Cheese
+  - https://chipsandcheese.com/archive - Chips and Cheese
     - https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/ - ARM or x86? ISA Doesn’t Matter
   - https://simontoth.substack.com/p/daily-bite-of-c-optimizing-code-to - Daily bit(e) of C++ | Optimizing code to run 87x faster
   - https://nrk.neocities.org/articles/cpu-vs-common-sense - strlcpy and how CPUs can defy common sense
