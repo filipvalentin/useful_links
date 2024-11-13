@@ -2,7 +2,7 @@
 Topics: CQRS, DDD, Software & System Architectures, Databases and anything in between\
 I hope you'll find these resources useful, it took me a long time to gather (& read) them all.\
 _Note: If a site doesn't load or has been deleted, try using the Wayback Machine. It is an invaluable tool, and without it, my thesis would be significantly lacking._
-
+_Note: If the Wayback Machine is not available, I've saved all the pages I lised below: https://gitlab.com/valentin-filip/thesis-references-archive_
 <br>
 
 - CQRS (and some Event Sourcing)
