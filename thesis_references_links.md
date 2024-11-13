@@ -1,9 +1,12 @@
 # References used throughout my [thesis](https://github.com/filipvalentin/cqrs-thesis-impl/releases/tag/thesis) and other relevant sources
 Topics: CQRS, DDD, Software & System Architectures, Databases and anything in between\
-I hope you'll find these resources useful, it took me a long time to gather (& read) them all.\
-_Note: If a site doesn't load or has been deleted, try using the Wayback Machine. It is an invaluable tool, and without it, my thesis would be significantly lacking._
-_Note: If the Wayback Machine is not available, I've saved all the pages I lised below: https://gitlab.com/valentin-filip/thesis-references-archive_
-<br>
+I hope you'll find these resources useful, it took me a long time to gather them all.
+### Notes
+- If a site doesn't load or has been deleted, try using the Wayback Machine. It is an invaluable tool, and without it, my thesis would be significantly lacking.
+- If the Wayback Machine is not available, I've saved all the pages I lised below: https://gitlab.com/valentin-filip/thesis-references-archive
+
+
+### Links
 
 - CQRS (and some Event Sourcing)
   - Greg Young, 'CQRS, Task Based UIs, Event Sourcing agh!'. Feb. 16, 2010. https://web.archive.org/web/20101223100708/http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/
