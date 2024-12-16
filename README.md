@@ -39,6 +39,7 @@
   - https://simontoth.substack.com/p/daily-bite-of-c-optimizing-code-to - Daily bit(e) of C++ | Optimizing code to run 87x faster
   - https://nrk.neocities.org/articles/cpu-vs-common-sense - strlcpy and how CPUs can defy common sense
   - https://fuckingfunctionpointers.com/ - How Do I Declare a Function Pointer in C?
+  - https://beej.us/guide/bgnet/html/split/ - Beej's Guide to Network Programming Using Internet Sockets
 
 <br>
 
