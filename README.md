@@ -63,6 +63,8 @@
 
 - Other
   - https://www.handprint.com/HP/WCL/color18a.html - modern color theory (concepts)
+  - Blogs
+    - https://ludic.mataroa.blog/ - Ludic by Nikhil Suresh - stories about the reality of nowaday's tech industry
 
 <br>
 
