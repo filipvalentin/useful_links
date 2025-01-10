@@ -65,6 +65,8 @@
   - https://www.handprint.com/HP/WCL/color18a.html - modern color theory (concepts)
   - Blogs
     - https://ludic.mataroa.blog/ - Ludic by Nikhil Suresh - stories about the reality of nowaday's tech industry
+    - https://izzys.casa/posts/ - Isabella Muerte - C++ developer
+    - https://imagequalitymatters.blogspot.com/ - IQGamer - game analyst
 
 <br>
 
