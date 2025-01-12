@@ -69,6 +69,7 @@
     - https://imagequalitymatters.blogspot.com/ - IQGamer - game analyst
     - https://axleos.com/blog/ - Phillip Tennen - low level, hardware, operating systems
     - https://www.elopezr.com/ - The Code Corsair - graphics programmer
+    - https://maskray.me/blog/ - C++, OS, low level dev
 
 <br>
 
