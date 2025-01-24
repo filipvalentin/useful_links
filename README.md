@@ -40,6 +40,7 @@
   - https://nrk.neocities.org/articles/cpu-vs-common-sense - strlcpy and how CPUs can defy common sense
   - https://fuckingfunctionpointers.com/ - How Do I Declare a Function Pointer in C?
   - https://beej.us/guide/bgnet/html/split/ - Beej's Guide to Network Programming Using Internet Sockets
+  - https://randomnetcat.github.io/cpp_initialization/initialization.svg - C++ initialization sequence tree, as per the reference
 
 <br>
 
