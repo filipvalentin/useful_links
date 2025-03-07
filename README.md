@@ -72,6 +72,7 @@
     - https://axleos.com/blog/ - Phillip Tennen - low level, hardware, operating systems
     - https://www.elopezr.com/ - The Code Corsair - graphics programmer
     - https://maskray.me/blog/ - C++, OS, low level dev
+  - CV/resume template - https://typst.app/universe/package/modern-cv 
 
 <br>
 
