@@ -42,6 +42,7 @@
   - https://fuckingfunctionpointers.com/ - How Do I Declare a Function Pointer in C?
   - https://beej.us/guide/bgnet/html/split/ - Beej's Guide to Network Programming Using Internet Sockets
   - https://randomnetcat.github.io/cpp_initialization/initialization.svg - C++ initialization sequence tree, as per the reference
+  - https://tavianator.com/index.html - CPUs, algorithms, libraries
 
 <br>
 
@@ -72,7 +73,7 @@
     - https://axleos.com/blog/ - Phillip Tennen - low level, hardware, operating systems
     - https://www.elopezr.com/ - The Code Corsair - graphics programmer
     - https://maskray.me/blog/ - C++, OS, low level dev
-  - CV/resume template - https://typst.app/universe/package/modern-cv 
+  - https://typst.app/universe/package/modern-cv - CV/resume template 
 
 <br>
 
