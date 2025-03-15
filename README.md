@@ -20,6 +20,7 @@
 
 - hardware & software
   - https://en.algorithmica.org/hpc/ - Algorithms for Modern Hardware
+  - https://www.lighterra.com/papers/modernmicroprocessors/ - Modern Microprocessors, A 90-Minute Guide
   - https://asmtutor.com/ - Learn Assembly Language
   - https://youtu.be/7PFwUpXKLrg - Conversational x86 ASM: Learning to Appreciate Your Compiler • Matt Godbolt • YOW! 2020
   - https://pages.cs.wisc.edu/~remzi/OSTEP/ - Operating Systems: Three Easy Pieces
