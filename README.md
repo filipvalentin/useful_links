@@ -73,8 +73,9 @@
     - https://imagequalitymatters.blogspot.com/ - IQGamer - game analyst
     - https://axleos.com/blog/ - Phillip Tennen - low level, hardware, operating systems
     - https://www.elopezr.com/ - The Code Corsair - graphics programmer
-    - https://maskray.me/blog/ - C++, OS, low level dev
-    - https://codeblog.jonskeet.uk/ - .NET dev
+    - https://maskray.me/blog/ - MaskRay's Blog - C++, OS, low level dev
+    - https://codeblog.jonskeet.uk/ - Jon Skeet's coding blog - .NET developer
+    - https://brevzin.github.io/ - Barry's C++ Blog - _Just a blog about C++_
   - https://typst.app/universe/package/modern-cv - CV/resume template 
 
 <br>
