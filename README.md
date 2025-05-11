@@ -76,6 +76,8 @@
     - https://maskray.me/blog/ - MaskRay's Blog - C++, OS, low level dev
     - https://codeblog.jonskeet.uk/ - Jon Skeet's coding blog - .NET developer
     - https://brevzin.github.io/ - Barry's C++ Blog - _Just a blog about C++_
+    - https://cookieplmonster.github.io/ - Silent’s Blog - game modder, reverse engineer
+      - https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/ - How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2
   - https://typst.app/universe/package/modern-cv - CV/resume template 
 
 <br>
