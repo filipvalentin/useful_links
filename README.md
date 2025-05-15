@@ -78,6 +78,8 @@
     - https://brevzin.github.io/ - Barry's C++ Blog - _Just a blog about C++_
     - https://cookieplmonster.github.io/ - Silent’s Blog - game modder, reverse engineer
       - https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/ - How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2
+    - https://fluxsec.red/ - 0xflux's blog - malware/OS research
+      - https://fluxsec.red/alt-syscalls-for-windows-11 - Alt Syscalls for Windows 11 
   - https://typst.app/universe/package/modern-cv - CV/resume template 
 
 <br>
