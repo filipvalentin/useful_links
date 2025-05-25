@@ -44,6 +44,7 @@
   - https://beej.us/guide/bgnet/html/split/ - Beej's Guide to Network Programming Using Internet Sockets
   - https://randomnetcat.github.io/cpp_initialization/initialization.svg - C++ initialization sequence tree, as per the reference
   - https://tavianator.com/index.html - CPUs, algorithms, libraries
+  - https://github.com/AnthonyCalandra/modern-cpp-features/ - modern-cpp-features by AnthonyCalandra
 
 <br>
 
