@@ -66,23 +66,31 @@
 
 <br>
 
+- Blogs
+  - https://ludic.mataroa.blog/ - Ludic by Nikhil Suresh - stories about the reality of nowaday's tech industry
+  - https://izzys.casa/posts/ - Isabella Muerte - C++ developer
+  - https://imagequalitymatters.blogspot.com/ - IQGamer - game analyst
+  - https://axleos.com/blog/ - Phillip Tennen - low level, hardware, operating systems
+  - https://www.elopezr.com/ - The Code Corsair - graphics programmer
+  - https://maskray.me/blog/ - MaskRay's Blog - C++, OS, low level dev
+  - https://codeblog.jonskeet.uk/ - Jon Skeet's coding blog - .NET developer
+  - https://brevzin.github.io/ - Barry's C++ Blog - _Just a blog about C++_
+  - https://cookieplmonster.github.io/ - Silent’s Blog - game modder, reverse engineer
+    - https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/ - How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2
+  - https://fluxsec.red/ - 0xflux's blog - malware/OS research
+    - https://fluxsec.red/alt-syscalls-for-windows-11 - Alt Syscalls for Windows 11
+  - https://caseymuratori.com/ - Casey Muratori - _game engine research and development_
+    - https://caseymuratori.com/blog_0025 - The Worst API Ever Made
+  - https://labs.infoguard.ch/ - InfoGuard Labs -Insights from the frontlines of offensive security and incident response
+    - https://labs.infoguard.ch/posts/attacking_edr_part4_fuzzing_defender_scanning_and_emulation_engine/ - Fuzzing Defender's Scanning and Emulation Engine
+  - https://www.sigarch.org/gpu-memory-consistency-specifications-testing-and-opportunities-for-performance-tooling/ - ACM SIGARCH - GPU Memory Consistency: Specifications, Testing, and Opportunities for Performance Tooling
+  - https://hex-rays.com/blog/deobfuscation-with-goomba - hex-rays - Hands-Free Binary Deobfuscation with gooMBA
+  - https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects - seve.blog - I made a 3D SVG Renderer that projects textures without rasterization
+
+<br>
+
 - Other
   - https://www.handprint.com/HP/WCL/color18a.html - modern color theory (concepts)
-  - Blogs
-    - https://ludic.mataroa.blog/ - Ludic by Nikhil Suresh - stories about the reality of nowaday's tech industry
-    - https://izzys.casa/posts/ - Isabella Muerte - C++ developer
-    - https://imagequalitymatters.blogspot.com/ - IQGamer - game analyst
-    - https://axleos.com/blog/ - Phillip Tennen - low level, hardware, operating systems
-    - https://www.elopezr.com/ - The Code Corsair - graphics programmer
-    - https://maskray.me/blog/ - MaskRay's Blog - C++, OS, low level dev
-    - https://codeblog.jonskeet.uk/ - Jon Skeet's coding blog - .NET developer
-    - https://brevzin.github.io/ - Barry's C++ Blog - _Just a blog about C++_
-    - https://cookieplmonster.github.io/ - Silent’s Blog - game modder, reverse engineer
-      - https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/ - How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2
-    - https://fluxsec.red/ - 0xflux's blog - malware/OS research
-      - https://fluxsec.red/alt-syscalls-for-windows-11 - Alt Syscalls for Windows 11
-    - https://caseymuratori.com/ - Casey Muratori - _game engine research and development_
-      - https://caseymuratori.com/blog_0025 - The Worst API Ever Made
   - https://typst.app/universe/package/modern-cv - CV/resume template 
 
 <br>
