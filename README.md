@@ -81,7 +81,7 @@
     - https://fluxsec.red/alt-syscalls-for-windows-11 - Alt Syscalls for Windows 11
   - https://caseymuratori.com/ - Casey Muratori - _game engine research and development_
     - https://caseymuratori.com/blog_0025 - The Worst API Ever Made
-  - https://labs.infoguard.ch/ - InfoGuard Labs -Insights from the frontlines of offensive security and incident response
+  - https://labs.infoguard.ch/ - InfoGuard Labs - Insights from the frontlines of offensive security and incident response
     - https://labs.infoguard.ch/posts/attacking_edr_part4_fuzzing_defender_scanning_and_emulation_engine/ - Fuzzing Defender's Scanning and Emulation Engine
   - https://www.sigarch.org/gpu-memory-consistency-specifications-testing-and-opportunities-for-performance-tooling/ - ACM SIGARCH - GPU Memory Consistency: Specifications, Testing, and Opportunities for Performance Tooling
   - https://hex-rays.com/blog/deobfuscation-with-goomba - hex-rays - Hands-Free Binary Deobfuscation with gooMBA
@@ -91,7 +91,8 @@
 
 - Other
   - https://www.handprint.com/HP/WCL/color18a.html - modern color theory (concepts)
-  - https://typst.app/universe/package/modern-cv - CV/resume template 
+  - https://typst.app/universe/package/modern-cv - CV/resume template
+  - https://www.google.com/googlebooks/chrome/ - Comic book-style introduction into how browsers work.
 
 <br>
 
