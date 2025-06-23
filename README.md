@@ -86,6 +86,7 @@
   - https://www.sigarch.org/gpu-memory-consistency-specifications-testing-and-opportunities-for-performance-tooling/ - ACM SIGARCH - GPU Memory Consistency: Specifications, Testing, and Opportunities for Performance Tooling
   - https://hex-rays.com/blog/deobfuscation-with-goomba - hex-rays - Hands-Free Binary Deobfuscation with gooMBA
   - https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects - seve.blog - I made a 3D SVG Renderer that projects textures without rasterization
+  - https://josef.codes/ - Josef Ottosson, Freelancing Developer · Microsoft MVP
 
 <br>
 
