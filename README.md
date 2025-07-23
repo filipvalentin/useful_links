@@ -51,6 +51,7 @@
 - Crypto
   - https://www.crypto101.io/ - _an introductory course on cryptography_
   - https://joyofcryptography.com/ - _undergraduate-level textbook that introduces students to the fundamentals of provable security_
+  - https://www.cs.auckland.ac.nz/~pgut001/pubs/pkitutorial.pdf - Everything you Never Wanted to Know about PKI but were Forced to Find Out - Peter Gutmann
 
 <br>
 
