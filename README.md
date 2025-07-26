@@ -88,6 +88,8 @@
   - https://hex-rays.com/blog/deobfuscation-with-goomba - hex-rays - Hands-Free Binary Deobfuscation with gooMBA
   - https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects - seve.blog - I made a 3D SVG Renderer that projects textures without rasterization
   - https://josef.codes/ - Josef Ottosson, Freelancing Developer · Microsoft MVP
+  - https://www.industrialempathy.com/ - Malte Ubl's personal blog
+    - https://www.industrialempathy.com/posts/high-performance-web-font-loading/ - More than you ever wanted to know about font loading on the web
 
 <br>
 
