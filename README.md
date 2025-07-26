@@ -107,5 +107,6 @@
 <br>
 
 - Funny
-  - https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html?m=1
-  - https://www-users.york.ac.uk/~ss44/joke/foot.htm
+  - https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html?m=1 - James Iry - A Brief, Incomplete, and Mostly Wrong History of Programming Languages
+  - https://www-users.york.ac.uk/~ss44/joke/foot.htm - How to Shoot Yourself In the Foot
+  - https://www.ling.upenn.edu/courses/Spring_2003/ling538/Lecnotes/ADfn1.htm - The Origin of the Terms Big-Endian and Little-Endian
