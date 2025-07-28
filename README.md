@@ -90,6 +90,7 @@
   - https://josef.codes/ - Josef Ottosson, Freelancing Developer · Microsoft MVP
   - https://www.industrialempathy.com/ - Malte Ubl's personal blog
     - https://www.industrialempathy.com/posts/high-performance-web-font-loading/ - More than you ever wanted to know about font loading on the web
+  - https://wiki.futo.org/index.php/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software - Introduction to a Self Managed Life: a 13 hour & 28 minute presentation by FUTO software
 
 <br>
 
