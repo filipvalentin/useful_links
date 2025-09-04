@@ -32,7 +32,6 @@
     - https://www.youtube.com/watch?v=hf27qsQPRLQ - When Optimisations Work, But for the Wrong Reasons | SimonDev
     - https://thebookofshaders.com/ The Book of Shaders | P. Gonzalez & J. Lowe
     - https://vulkan-tutorial.com/ - Vulkan Tutorial
-
   - https://n-o-d-e.net/index.html - hardware, embedded projects
     - https://n-o-d-e.net/zine/# - a book about *topics and projects in the digital counterculture, NODE Vol 02 shows you the people creating amazing open hardware*
     - https://n-o-d-e.net/pinouts.html - *a pinout reference book that you can download for free*
@@ -47,6 +46,9 @@
   - https://randomnetcat.github.io/cpp_initialization/initialization.svg - C++ initialization sequence tree, as per the reference
   - https://tavianator.com/index.html - CPUs, algorithms, libraries
   - https://github.com/AnthonyCalandra/modern-cpp-features/ - modern-cpp-features by AnthonyCalandra
+  - https://www.tinytpu.com/ - Tiny-TPU: the why and how
+  - https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf - The Little Book of Semaphores
+
 
 <br>
 
@@ -93,6 +95,9 @@
   - https://www.industrialempathy.com/ - Malte Ubl's personal blog
     - https://www.industrialempathy.com/posts/high-performance-web-font-loading/ - More than you ever wanted to know about font loading on the web
   - https://wiki.futo.org/index.php/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software - Introduction to a Self Managed Life: a 13 hour & 28 minute presentation by FUTO software
+  - https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/ - Payment Processor Fun 2025 -- Making Your Own MSP
+  - https://blog.svgames.pl/
+    - https://blog.svgames.pl/article/the-little-bool-of-doom - The little bool of doom
 
 <br>
 
@@ -100,6 +105,8 @@
   - https://www.handprint.com/HP/WCL/color18a.html - modern color theory (concepts)
   - https://typst.app/universe/package/modern-cv - CV/resume template
   - https://www.google.com/googlebooks/chrome/ - Comic book-style introduction into how browsers work.
+  - https://imadr.me/pbr/ - Physically based rendering from first principles
+  - https://nlp.seas.harvard.edu/annotated-transformer/ - The Annotated Transformer
 
 <br>
 
