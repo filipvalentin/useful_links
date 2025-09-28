@@ -100,6 +100,8 @@
     - https://blog.svgames.pl/article/the-little-bool-of-doom - The little bool of doom
  - https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/ - Uros Popovic's blog - Writing an operating system kernel from scratch
  - https://kube.io/blog/liquid-glass-css-svg - Chris Feijoo's blog - Liquid Glass in the Browser: Refraction with CSS and SVG
+ - https://jonhilton.net/ - Jon Hilton - Making sense of ASP.NET
+   - https://jonhilton.net/blazor-rendering/ - State Hasn't Changed? Why and when Blazor components re-render 
 
 <br>
 
