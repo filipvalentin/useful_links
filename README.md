@@ -48,6 +48,7 @@
   - https://github.com/AnthonyCalandra/modern-cpp-features/ - modern-cpp-features by AnthonyCalandra
   - https://www.tinytpu.com/ - Tiny-TPU: the why and how
   - https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf - The Little Book of Semaphores
+  - https://github.com/sapdragon/hint-break/blob/4a1615c7680f226b878f6bd6017e604ab1872cc0/papers/en.pdf - The 25-year-old Intel patent that killed your disassemblers ft. colby57 
 
 
 <br>
