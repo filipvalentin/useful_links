@@ -48,7 +48,10 @@
   - https://github.com/AnthonyCalandra/modern-cpp-features/ - modern-cpp-features by AnthonyCalandra
   - https://www.tinytpu.com/ - Tiny-TPU: the why and how
   - https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf - The Little Book of Semaphores
-  - https://github.com/sapdragon/hint-break/blob/4a1615c7680f226b878f6bd6017e604ab1872cc0/papers/en.pdf - The 25-year-old Intel patent that killed your disassemblers ft. colby57 
+  - https://github.com/sapdragon/hint-break/blob/4a1615c7680f226b878f6bd6017e604ab1872cc0/papers/en.pdf - The 25-year-old Intel patent that killed your disassemblers ft. colby57
+  - https://github.com/VictorEijkhout/TheArtofHPC_pdfs/tree/main - The Art of High Performance Computing
+  - https://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf - Are You Sure You Want to Use MMAP in Your Database Management System?
+  - https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive - The ASUS Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation
 
 
 <br>
@@ -112,6 +115,7 @@
   - https://www.google.com/googlebooks/chrome/ - Comic book-style introduction into how browsers work.
   - https://imadr.me/pbr/ - Physically based rendering from first principles
   - https://nlp.seas.harvard.edu/annotated-transformer/ - The Annotated Transformer
+  - https://http3-explained.haxx.se/ - HTTP/3 explained
 
 <br>
 
