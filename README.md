@@ -67,6 +67,7 @@
 - Algorithms
   - https://jeffe.cs.illinois.edu/teaching/algorithms/ - Algorithms by Jeff Erickson
   - https://github.com/makhan1101/BurstSort/tree/master - BurstSort - very efficient string sorting algorithm
+  - https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html - Tanner Helland - Image Dithering: Eleven Algorithms and Source Code
 
 <br>
 
