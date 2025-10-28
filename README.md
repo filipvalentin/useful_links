@@ -53,6 +53,8 @@
   - https://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf - Are You Sure You Want to Use MMAP in Your Database Management System?
   - https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive - The ASUS Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation
   - https://research.swtch.com/bisect - Hash-Based Bisect Debugging in Compilers and Runtimes
+  - https://dramforever.github.io/easyriscv/ - Easy RISC-V
+  - https://ghostwriteattack.com/ - The GhostWrite vulnerability
 
 
 <br>
