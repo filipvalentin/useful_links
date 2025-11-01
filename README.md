@@ -56,6 +56,7 @@
   - https://dramforever.github.io/easyriscv/ - Easy RISC-V
   - https://ghostwriteattack.com/ - The GhostWrite vulnerability
   - https://ar5iv.labs.arxiv.org/html/1901.09056 - Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code
+  - https://github.com/VirtualAlllocEx/HWBP-DEP-Bypass
 
 
 <br>
@@ -71,6 +72,7 @@
   - https://jeffe.cs.illinois.edu/teaching/algorithms/ - Algorithms by Jeff Erickson
   - https://github.com/makhan1101/BurstSort/tree/master - BurstSort - very efficient string sorting algorithm
   - https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html - Tanner Helland - Image Dithering: Eleven Algorithms and Source Code
+  - https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html - Who needs Graphviz when you can build it yourself?
 
 <br>
 
