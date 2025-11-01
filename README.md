@@ -55,6 +55,7 @@
   - https://research.swtch.com/bisect - Hash-Based Bisect Debugging in Compilers and Runtimes
   - https://dramforever.github.io/easyriscv/ - Easy RISC-V
   - https://ghostwriteattack.com/ - The GhostWrite vulnerability
+  - https://ar5iv.labs.arxiv.org/html/1901.09056 - Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code
 
 
 <br>
