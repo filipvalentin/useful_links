@@ -76,6 +76,11 @@
 
 <br>
 
+- Databases
+  - https://www.sommarskog.se/dyn-search-2008.html - Dynamic Search Conditions in T‑SQL
+
+<br>
+
 - Roadmaps
   - https://roadmap.sh/ - Developer Roadmaps
   - https://thesenioritybook.com/topics.html - Shortcut to seniority - teaches the basics: hardware & algorithms
