@@ -118,7 +118,8 @@
   - https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/ - Uros Popovic's blog - Writing an operating system kernel from scratch
   - https://kube.io/blog/liquid-glass-css-svg - Chris Feijoo's blog - Liquid Glass in the Browser: Refraction with CSS and SVG
   - https://jonhilton.net/ - Jon Hilton - Making sense of ASP.NET
-    - https://jonhilton.net/blazor-rendering/ - State Hasn't Changed? Why and when Blazor components re-render 
+    - https://jonhilton.net/blazor-rendering/ - State Hasn't Changed? Why and when Blazor components re-render
+  - https://nietras.com/ - nietras - *Programming, mechanical sympathy, machine learning and .NET*
 
 <br>
 
