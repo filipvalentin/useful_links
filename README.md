@@ -131,6 +131,7 @@
   - https://nlp.seas.harvard.edu/annotated-transformer/ - The Annotated Transformer
   - https://http3-explained.haxx.se/ - HTTP/3 explained
   - https://pagedout.institute/ - Paged Out!, a free technical magazine
+  - https://phrack.org/ - telcom (phreaking/hacking), anarchy, kracking
 
 <br>
 
