@@ -130,6 +130,7 @@
   - https://imadr.me/pbr/ - Physically based rendering from first principles
   - https://nlp.seas.harvard.edu/annotated-transformer/ - The Annotated Transformer
   - https://http3-explained.haxx.se/ - HTTP/3 explained
+  - https://pagedout.institute/ - Paged Out!, a free technical magazine
 
 <br>
 
