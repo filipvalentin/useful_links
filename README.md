@@ -58,7 +58,7 @@
   - https://ar5iv.labs.arxiv.org/html/1901.09056 - Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code
   - https://github.com/VirtualAlllocEx/HWBP-DEP-Bypass - HWBP-DEP-Bypass
   - https://www.oobs.io/posts/four-bytes-one-lie - Four Bytes, One Lie: A SMAP-Free Confidence Trick on Kernel Pointers
-
+  - https://www.sebastianaaltonen.com/blog/no-graphics-api - Sebastian Aaltonen - No Graphics API
 
 <br>
 
