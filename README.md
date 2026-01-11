@@ -14,7 +14,8 @@
   - https://javascript.info/ - The Modern JavaScript Tutorial
   - https://exploringjs.com/deep-js/toc.html - Deep JavaScript
   - https://phuoc.ng/collections/ - various topics in front-end development
-  - https://github.com/davidfowl/AspNetCoreDiagnosticScenarios - ASP.NET Core Diagnostic Scenarios 
+  - https://github.com/davidfowl/AspNetCoreDiagnosticScenarios - ASP.NET Core Diagnostic Scenarios
+  - https://gibbok.github.io/typescript-book/book/the-concise-typescript-book/ - The Concise TypeScript Book by Simone Poggiali
 
 <br>
 
