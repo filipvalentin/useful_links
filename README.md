@@ -60,6 +60,7 @@
   - https://github.com/VirtualAlllocEx/HWBP-DEP-Bypass - HWBP-DEP-Bypass
   - https://www.oobs.io/posts/four-bytes-one-lie - Four Bytes, One Lie: A SMAP-Free Confidence Trick on Kernel Pointers
   - https://www.sebastianaaltonen.com/blog/no-graphics-api - Sebastian Aaltonen - No Graphics API
+  - https://www.intel.com/content/www/us/en/developer/articles/technical/timed-process-event-based-sampling-tpebs.html - Timed Process Event Based Sampling (TPEBS)
 
 <br>
 
