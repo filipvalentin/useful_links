@@ -134,6 +134,7 @@
   - https://http3-explained.haxx.se/ - HTTP/3 explained
   - https://pagedout.institute/ - Paged Out!, a free technical magazine
   - https://phrack.org/ - telcom (phreaking/hacking), anarchy, kracking
+  - https://www.techinterviewhandbook.org/software-engineering-interview-guide/ - Software Engineer interviews: Everything you need to prepare
 
 <br>
 
