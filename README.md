@@ -122,6 +122,8 @@
   - https://jonhilton.net/ - Jon Hilton - Making sense of ASP.NET
     - https://jonhilton.net/blazor-rendering/ - State Hasn't Changed? Why and when Blazor components re-render
   - https://nietras.com/ - nietras - *Programming, mechanical sympathy, machine learning and .NET*
+  - https://blog.s-schoener.com/2018-03-04-value-semantics-csharp/ - Sebastian Schöner - Value Semantics and C# structs
+
 
 <br>
 
